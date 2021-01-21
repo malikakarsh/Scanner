@@ -1,3 +1,4 @@
+import os
 import cv2
 import PIL
 from PIL import Image, ImageTk
@@ -5,7 +6,6 @@ import numpy as np
 from tkinter import *
 from tkinter import filedialog
 import imutils
-import os
 import shutil
 import sys
 import tkinter as tk
