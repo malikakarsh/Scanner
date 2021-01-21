@@ -3,9 +3,9 @@ import sys
 import imutils
 import shutil
 import cv2
+import numpy as np
 import PIL
 from PIL import Image, ImageTk
-import numpy as np
 from tkinter import *
 from tkinter import filedialog
 import tkinter as tk
