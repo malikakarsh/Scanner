@@ -1,13 +1,13 @@
 import os
 import sys
 import imutils
+import shutil
 import cv2
 import PIL
 from PIL import Image, ImageTk
 import numpy as np
 from tkinter import *
 from tkinter import filedialog
-import shutil
 import tkinter as tk
 
 if not os.path.isdir('SAVED'):
