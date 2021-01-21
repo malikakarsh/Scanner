@@ -4,11 +4,12 @@ import imutils
 import shutil
 import cv2
 import numpy as np
-import PIL
-from PIL import Image, ImageTk
 from tkinter import *
 from tkinter import filedialog
 import tkinter as tk
+import PIL
+from PIL import Image, ImageTk
+
 
 if not os.path.isdir('SAVED'):
     os.mkdir('SAVED')
