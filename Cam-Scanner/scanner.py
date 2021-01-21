@@ -1,4 +1,5 @@
 import os
+import sys
 import cv2
 import PIL
 from PIL import Image, ImageTk
@@ -7,7 +8,6 @@ from tkinter import *
 from tkinter import filedialog
 import imutils
 import shutil
-import sys
 import tkinter as tk
 
 if not os.path.isdir('SAVED'):
