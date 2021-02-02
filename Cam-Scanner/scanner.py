@@ -3,12 +3,12 @@ import sys
 import imutils
 import shutil
 import numpy as np
+import cv2
 from tkinter import *
 from tkinter import filedialog
 import tkinter as tk
 import PIL
 from PIL import Image, ImageTk
-import cv2
 
 
 if not os.path.isdir('SAVED'):
