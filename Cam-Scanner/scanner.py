@@ -4,9 +4,9 @@ import imutils
 import shutil
 import numpy as np
 import cv2
+import PIL
 from tkinter import *
 from tkinter import filedialog
-import PIL
 from PIL import Image, ImageTk
 import tkinter as tk
 
