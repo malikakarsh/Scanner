@@ -6,9 +6,9 @@ import numpy as np
 import cv2
 from tkinter import *
 from tkinter import filedialog
-import tkinter as tk
 import PIL
 from PIL import Image, ImageTk
+import tkinter as tk
 
 
 if not os.path.isdir('SAVED'):
