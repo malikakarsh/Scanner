@@ -1,6 +1,6 @@
 # Scanner
 Developed using OpenCV to automatically detect edges of an A4 sheet and convert it into pdf document.
-Required Modules:
+## Required Modules:
   1) cv2
   2) PIL (pillow)
   3) numpy
