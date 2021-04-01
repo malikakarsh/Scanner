@@ -2,9 +2,9 @@ import os
 import sys
 import imutils
 import shutil
-import numpy as np
 import cv2
 import PIL
+import numpy as np
 from tkinter import *
 from tkinter import filedialog
 from PIL import Image, ImageTk
